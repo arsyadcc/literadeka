@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "e122ab31db0129ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "381f947c5eb6a3d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gagasan/Literasi Merdeka.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "579dbb185524426f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2509d55d7078496e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cd283d634152cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06a4751bd7ff988e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "279d5b376502d80a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b2d364a5a3536a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "851dac94cd7f9c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc65270b813fc90a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gagasan/Literasi Merdeka.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a802724cce714a7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "gagasan/Literasi Merdeka.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4af6d5f1be24607e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8be743373bd622c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gagasan/Literasi Merdeka.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "381f947c5eb6a3d6",
+  "lastOpenFiles": []
+}

@@ -1,0 +1,18 @@
+{
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "]"
+    }
+  ]
+}
